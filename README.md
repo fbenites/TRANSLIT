@@ -22,11 +22,20 @@ We also searched for lang tags of wikipedia for transliterations (wiki-all).
 
 We merged multiple names of an entity and assigned a UUID to it. We saved all the gathered names/entities in the file [TRANSLIT.json](https://github.com/fbenites/TRANSLIT/blob/master/artefacts/TRANSLIT.json), in the artefacts directory.
 
-     | Dataset        | # entities | # name variations |  mean length of chars per name |
-     | -------------- | ---------- | ----------------- | ------------------------------ |
-     | JRC            | 819'209    | 1'338'463         | 14.3                           |
-     | Geonames       | 139'549    | 758'274           | 10.6                           |
-     | SubWikiLang    | 609'420    | 1'376'446         | 10.3                           |
-     | En-Ar          | 15'858     | 31'716            | 4.4                            |
-     | Wiki-lang-all  | 122'180    | 144'588           | 17.0                           |
-     | TRANSLIT (all) | 1'655'972  | 3'008'239         | 11.8                           |
+|Dataset       |# entities|# name variations| mean length of chars per name|
+|--------------|----------|-----------------|------------------------------|   
+|JRC           |819'209   |1'338'463        |14.3                          |
+| Geonames       | 139'549    | 758'274           | 10.6                           |
+| SubWikiLang    | 609'420    | 1'376'446         | 10.3                           |
+| En-Ar          | 15'858     | 31'716            | 4.4                            |
+| Wiki-lang-all  | 122'180    | 144'588           | 17.0                           |
+| TRANSLIT (all) | 1'655'972  | 3'008'239         | 11.8                           |
+     
+     
+     
+|Dataset|  # entities  | # name variations |  mean length of chars per name   |
+|-------|--------------|---|---|---|
+|   JRC    |              |   |   |   |
+
+|       |   |   |   |   |
+|       |   |   |   |   |
