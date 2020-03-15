@@ -1,0 +1,4 @@
+*pkl filter=lfs diff=lfs merge=lfs -text
+*shf filter=lfs diff=lfs merge=lfs -text
+*pkl.bak filter=lfs diff=lfs merge=lfs -text
+*json filter=lfs diff=lfs merge=lfs -text
