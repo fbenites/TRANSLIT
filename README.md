@@ -32,4 +32,10 @@ We merged multiple names of an entity and assigned a UUID to it. We saved all th
 | TRANSLIT (all) | 1'655'972  | 3'008'239         | 11.8                           |
      
      
+## Experiments
+
+The experiments of the paper can be retraced with the use of the scripts abalation_study.py, classification_experiments.py and cnn_classification.py in the code directory. For their use, the data in artefact is used. To recreate this data, you need to download the original data (17G zipped) with download_data.sh. Afterward you should run run_preprare_data.sh.
+
+
+     
 
