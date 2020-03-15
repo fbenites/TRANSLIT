@@ -32,10 +32,4 @@ We merged multiple names of an entity and assigned a UUID to it. We saved all th
 | TRANSLIT (all) | 1'655'972  | 3'008'239         | 11.8                           |
      
      
-     
-|Dataset|  # entities  | # name variations |  mean length of chars per name   |
-|-------|--------------|---|---|---|
-|   JRC    |              |   |   |   |
 
-|       |   |   |   |   |
-|       |   |   |   |   |
