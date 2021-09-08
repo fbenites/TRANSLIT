@@ -1,13 +1,13 @@
 
-wget -O data.tar.gz.parta "https://filer.cloudlab.zhaw.ch/index.php/s/SaJRpdBnxArbP2f/download"
-wget -O data.tar.gz.partb "https://filer.cloudlab.zhaw.ch/index.php/s/t2FMbgHxfDyXXpP/download"
-wget -O data.tar.gz.partc "https://filer.cloudlab.zhaw.ch/index.php/s/4fmf9ffstM6kTJo/download"
-wget -O data.tar.gz.partd "https://filer.cloudlab.zhaw.ch/index.php/s/EdkWSnCcCEiS9W6/download"
-wget -O data.tar.gz.parte "https://filer.cloudlab.zhaw.ch/index.php/s/ZdF4ayqjLsF63wr/download"
-wget -O data.tar.gz.partf "https://filer.cloudlab.zhaw.ch/index.php/s/ec4wz9GpewACXYn/download"
-wget -O data.tar.gz.partg "https://filer.cloudlab.zhaw.ch/index.php/s/zEaAjpwbM88XGYa/download"
-wget -O data.tar.gz.parth "https://filer.cloudlab.zhaw.ch/index.php/s/ems76MdDGgBAxzr/download"
-wget -O data.tar.gz.parti "https://filer.cloudlab.zhaw.ch/index.php/s/XQAKrL6pwSWrRAP/download"
+wget -O data.tar.gz.parta "https://drive.switch.ch/index.php/s/pDYwDIVOg9V9RVW/download"
+wget -O data.tar.gz.partb "https://drive.switch.ch/index.php/s/pfLZQeYusy1hV8u/download"
+wget -O data.tar.gz.partc "https://drive.switch.ch/index.php/s/6pcMkIrl8NhfZ1U/download"
+wget -O data.tar.gz.partd "https://drive.switch.ch/index.php/s/bpXlJK4Ahr3v5xc/download"
+wget -O data.tar.gz.parte "https://drive.switch.ch/index.php/s/HdvhVipqaxv9G5t/download"
+wget -O data.tar.gz.partf "https://drive.switch.ch/index.php/s/kTCwOmReFytkbZo/download"
+wget -O data.tar.gz.partg "https://drive.switch.ch/index.php/s/JK87H254M6yBmwt/download"
+wget -O data.tar.gz.parth "https://drive.switch.ch/index.php/s/YaW0COfShNqxiyD/download"
+wget -O data.tar.gz.parti "https://drive.switch.ch/index.php/s/XQcZUzatcHvNCn1/download"
 
 cat data.tar.gz.part* > data.tar.gz
 
